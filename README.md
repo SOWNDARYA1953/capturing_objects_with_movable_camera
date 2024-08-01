@@ -1,0 +1,1 @@
+# capturing_objects_with_movable_camera
